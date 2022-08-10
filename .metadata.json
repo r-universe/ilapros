@@ -1,5 +1,9 @@
 [
   {
+    "package": "rnrfa",
+    "oncran": true
+  },
+  {
     "package": "winfapReader",
     "oncran": true
   }
