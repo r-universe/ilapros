@@ -1,10 +1,10 @@
 [
   {
-    "package": "rnrfa",
+    "package": "winfapReader",
     "oncran": true
   },
   {
-    "package": "winfapReader",
+    "package": "rnrfa",
     "oncran": true
   }
 ]
